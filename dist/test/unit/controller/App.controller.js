@@ -1,0 +1,1 @@
+sap.ui.define(["trainning/bp000/controller/App.controller"],function(n){"use strict";QUnit.module("App Controller");QUnit.test("I should test the App controller",function(t){var o=new n;o.onInit();t.ok(o)})});
